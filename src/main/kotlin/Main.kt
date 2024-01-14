@@ -1,4 +1,4 @@
-fun main(args: Array<String>) {
+fun main() {
 
     // vou definir um gráfico com 80 caracteres de largura por 25 caracteres de altura
     val larguraGrafico = 80
